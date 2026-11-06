@@ -7,13 +7,8 @@ out/
 *.war
 *.ear
 
-# Maven
-.mvn/wrapper/maven-wrapper.jar
-
 # Gradle
 .gradle/
-gradlew
-gradlew.bat
 
 # IDE
 .idea/
